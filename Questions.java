@@ -7,5 +7,6 @@ public class Questions {
         System.out.println("How much do you like ICT(from 1-10)): _______");
         System.out.println("Rate this task from 1 to 10: _______");
         System.out.println("My favorite color?: _______");
+        
     }
 }
