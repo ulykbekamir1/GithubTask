@@ -1,0 +1,10 @@
+# GithubTask
+Yerasyl Saparbek
+public class array{
+    public static void main(String[] args) throws IOException {
+        System.out.println("Hobby: Tennis");
+        System.out.println("How much do you like ICT(from 1-10)): 10");
+        System.out.println("Rate this task from 1 to 10: 9");
+        System.out.println("Am I the best teacher?: Yes");
+        System.out.println("My favorite color?: black");
+    }}
