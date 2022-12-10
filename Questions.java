@@ -8,4 +8,5 @@ public class Questions {
         System.out.println("Rate this task from 1 to 10: 10");
         System.out.println("My favorite color?: white");
     }
+    
 }
