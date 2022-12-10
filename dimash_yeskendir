@@ -1,4 +1,4 @@
-echo public class Questions {
+public class Questions {
     public static void main(String[] args) {
         System.out.println("Name: Dimash");
         System.out.println("Surname: Yeskendir");
@@ -8,4 +8,4 @@ echo public class Questions {
         System.out.println("Rate this task from 1 to 10: 10");
         System.out.println("My favorite color?: green");
     }
-} > test
+}
