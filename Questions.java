@@ -1,11 +1,11 @@
 public class Questions {
     public static void main(String[] args) {
-        System.out.println("Name: _______");
-        System.out.println("Surname: _______");
-        System.out.println("Id: _______");
-        System.out.println("Hobby: _______");
-        System.out.println("How much do you like ICT(from 1-10)): _______");
-        System.out.println("Rate this task from 1 to 10: _______");
-        System.out.println("My favorite color?: _______");
+        System.out.println("Name: Mukhtar");
+        System.out.println("Surname: Kakimbay");
+        System.out.println("Id: 200103521");
+        System.out.println("Hobby: reading");
+        System.out.println("How much do you like ICT(from 1-10)): 10");
+        System.out.println("Rate this task from 1 to 10: 10");
+        System.out.println("My favorite color?: red");
     }
 }
